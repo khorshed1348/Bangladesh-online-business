@@ -377,10 +377,7 @@ color:	#7A72FF;
 			transition: all  ease 0.5s;
 		}
 	
-		footer {
-			background-color: black!important;
-			padding:20px;
-		}
+		
 		footer p {
 			text-align: center;
 			color: #f2f2f2;
